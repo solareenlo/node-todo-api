@@ -64,3 +64,4 @@ typings/
 *.txt
 
 mongo-data
+server/config/config.json
