@@ -14,3 +14,8 @@ mongodbとmongooseとexpressとherokuとPostmanとRobo3Tを使って, ローカ�
 2. `node server/server.js`  
 で, 開発環境を実行.
 3. Postmanで色々設定して, 色々操作して, Robo 3Tでmongodbの中身を見てみよう.
+
+## デプロイ先はこちら
+https://murmuring-beach-81397.herokuapp.com  
+Postman(https://www.getpostman.com)を使って, POST/GET/DELETE/PATCHを行えます.  
+Robo 3T(https://robomongo.org)を使って, DBの中身を閲覧できます.
