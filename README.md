@@ -21,5 +21,5 @@ Postman(https://www.getpostman.com )を使って, POST/GET/DELETE/PATCHを行え
 Robo 3T(https://robomongo.org )を使って, DBの中身を閲覧できます.
 
 ## 教材はこちら
-https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/content  
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
 のsection 6, 7, 8
